@@ -1,0 +1,16 @@
+R2 - right
+R1 - right
+R2 - down
+R1 - up
+R2 - right
+R1 - right
+R2 - right
+R1 - right
+R2 - right
+R1 - right
+R2 - right
+R1 - right
+R2 - up
+R1 - down
+R2 - right
+R1 - right

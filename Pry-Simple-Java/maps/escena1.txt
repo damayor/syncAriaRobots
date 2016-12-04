@@ -1,0 +1,17 @@
+filas: 10
+columnas: 10
+1i: 450, 1950, 0
+1f: 2550, 1950, 0
+2i: 450, 1350, 0
+2f: 2550, 1350, 0
+Matriz libres (oo) y ocupadas (xx)
+oo oo oo oo oo oo oo oo oo oo
+oo oo oo oo oo oo oo oo oo oo
+oo oo oo oo oo oo oo oo oo oo
+oo 1i oo xx xx xx xx oo 1f oo
+oo oo oo xx xx xx xx oo oo oo
+oo 2i oo xx xx xx xx oo 2f oo
+oo oo oo xx xx xx xx oo oo oo
+oo oo oo oo oo oo oo oo oo oo
+oo oo oo oo oo oo oo oo oo oo
+oo oo oo oo oo oo oo oo oo oo
